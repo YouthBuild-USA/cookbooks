@@ -1,0 +1,4 @@
+cookbooks
+=========
+
+AWS Opsworks Cookbooks
